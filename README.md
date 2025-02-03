@@ -1,4 +1,4 @@
-# 📊 Ülkelerin Özgürlük Skorları Analizi (2013-2022) 🌍
+# 📊 Ülkelerin Özgürlük Skorları Analizi (2013-2022) 
 
 ## 📌 Proje Amacı
 Bu proje, **2013-2022** yılları arasında ülkelerin özgürlük skorlarını analiz etmek ve bu skorların zaman içindeki değişimlerini incelemek amacıyla geliştirilmiştir. Proje, veri görselleştirme ve makine öğrenmesi teknikleri kullanarak ülkelerin özgürlük seviyelerine göre **kümeleme** yapmayı hedeflemektedir.
@@ -16,7 +16,7 @@ Bu proje, **2013-2022** yılları arasında ülkelerin özgürlük skorlarını 
 - **Boxplot ve ısı haritası ile ülke karşılaştırmaları**
 
 ### 3. Makine Öğrenmesi - Kümeleme
-- - **K-means algoritması** ile özgürlük skorlarına göre gruplama
+-  **K-means algoritması** ile özgürlük skorlarına göre gruplama
 -  **En uygun küme sayısının belirlenmesi** (Dirsek Yöntemi ve Silüet Analizi)
 -  **Kümeleme sonuçlarının görselleştirilmesi**
 
