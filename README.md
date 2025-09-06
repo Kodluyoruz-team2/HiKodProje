@@ -35,10 +35,8 @@ Ayrıca, makine öğrenmesi (k-means) yöntemi ile ülkeleri özgürlük seviyel
 -  **Geopandas**, **Folium** - Coğrafi veri görselleştirme
 
 
+- Screenshots
 
 
-## 📌 Sonuçlar
-Bu proje, ülkelerin özgürlük skorlarındaki değişimi analiz etmeyi, bu skorları gruplandırmayı ve bölgesel küresel eğilimleri ortaya koymayı amaçlamaktadır.
 
-## 🚀 Katkıda Bulunma
-Eğer katkıda bulunmak isterseniz, **pull request** gönderebilir veya önerilerinizi paylaşabilirsiniz! 
+ 
