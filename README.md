@@ -35,7 +35,7 @@ Ayrıca, makine öğrenmesi (k-means) yöntemi ile ülkeleri özgürlük seviyel
 -  **Geopandas**, **Folium** - Coğrafi veri görselleştirme
 
 
-- Screenshots
+- ## 📌 Screenshots
 
 
 
