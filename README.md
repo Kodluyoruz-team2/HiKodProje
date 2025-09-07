@@ -37,7 +37,7 @@ Ayrıca, makine öğrenmesi (k-means) yöntemi ile ülkeleri özgürlük seviyel
 ## 📌 Screenshots  
 
 
-<p align="center">
+<p>
   <img src="./screenshots/1738919349714.jpeg" width="400"/>
   <img src="./screenshots/1738919349140.jpeg" width="400"/>
 
