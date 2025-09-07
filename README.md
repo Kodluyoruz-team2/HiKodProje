@@ -39,12 +39,16 @@ Ayrıca, makine öğrenmesi (k-means) yöntemi ile ülkeleri özgürlük seviyel
 ## 📌 Screenshots  
 
 ## 📌 Screenshots  
+## 📌 Screenshots  
 
-| ![s1](./screenshots/1738919348668.jpeg) | ![s2](./screenshots/1738919348847.jpeg) |
-|----------------------------------------|----------------------------------------|
-| ![s3](./screenshots/1738919348889.jpeg) | ![s4](./screenshots/1738919348890.jpeg) |
-| ![s5](./screenshots/1738919348897.jpeg) | ![s6](./screenshots/1738919349089.jpeg) |
-| ![s7](./screenshots/1738919349140.jpeg) | ![s8](./screenshots/1738919349714.jpeg) |
+<p align="center">
+  <img src="./screenshots/1738919348668.jpeg" width="300"/> 
+  <img src="./screenshots/1738919348847.jpeg" width="300"/> 
+</p>
 
+<p align="center">
+  <img src="./screenshots/1738919348889.jpeg" width="400"/> 
+  <img src="./screenshots/1738919348890.jpeg" width="400"/> 
+</p>
 
  
