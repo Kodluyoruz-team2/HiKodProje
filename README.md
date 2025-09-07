@@ -36,8 +36,11 @@ Ayrıca, makine öğrenmesi (k-means) yöntemi ile ülkeleri özgürlük seviyel
 
 ## 📌 Screenshots  
 
-## 📌 Screenshots  
 
+<p align="center">
+  <img src="./screenshots/1738919349140.jpeg" width="400"/>
+  <img src="./screenshots/1738919349714.jpeg" width="400"/>
+</p>
 <p align="center">
   <img src="./screenshots/1738919348668.jpeg" width="400"/>
   <img src="./screenshots/1738919348847.jpeg" width="400"/>
@@ -53,7 +56,4 @@ Ayrıca, makine öğrenmesi (k-means) yöntemi ile ülkeleri özgürlük seviyel
   <img src="./screenshots/1738919349089.jpeg" width="400"/>
 </p>
 
-<p align="center">
-  <img src="./screenshots/1738919349140.jpeg" width="400"/>
-  <img src="./screenshots/1738919349714.jpeg" width="400"/>
-</p>
+
