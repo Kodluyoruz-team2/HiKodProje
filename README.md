@@ -34,21 +34,21 @@ Ayrıca, makine öğrenmesi (k-means) yöntemi ile ülkeleri özgürlük seviyel
 -  **Scikit-learn** - Kümeleme algoritmaları
 -  **Geopandas**, **Folium** - Coğrafi veri görselleştirme
 
-
-- ## 📌 Screenshots
-## 📌 Screenshots  
-
-## 📌 Screenshots  
 ## 📌 Screenshots  
 
 <p align="center">
-  <img src="./screenshots/1738919348668.jpeg" width="300"/> 
-  <img src="./screenshots/1738919348847.jpeg" width="300"/> 
+  <img src="./screenshots/1738919348668.jpeg" width="600"/>  
 </p>
 
 <p align="center">
-  <img src="./screenshots/1738919348889.jpeg" width="400"/> 
-  <img src="./screenshots/1738919348890.jpeg" width="400"/> 
+  <img src="./screenshots/1738919348847.jpeg" width="600"/>  
 </p>
 
- 
+<p align="center">
+  <img src="./screenshots/1738919348889.jpeg" width="600"/>  
+</p>
+
+<p align="center">
+  <img src="./screenshots/1738919348890.jpeg" width="600"/>  
+</p>
+
